@@ -1,6 +1,5 @@
 ---
 title: "Onkobioloogia"
-date: "2017-05-07 17:33:47"
 ---
 
 See on Tallinna Tehnikaülikooli [geenitehnoloogia magistri õppekava](https://www.ttu.ee/sisseastujale/magistriope-2/erialad-10/loodusteaduskonna-erialad-2/geenitehnoloogia-11/) _Onkobioloogia_ loengu kodulehekülg. 
