@@ -1,0 +1,24 @@
+baseurl         = "https://eueung.github.io/hugo-sp-minimal/"
+theme = "hugo-sp-minimal"
+languageCode    = "en-us"
+title           = "SP-Minimal"
+disqusShortname = ""
+paginate        = 5
+
+[params]
+  title       = "Onkobioloogia"
+  subtitle    = "Vähi molekulaarsed alused"
+  copyright   = ""
+  authorImage = "MAX_f701.png"
+
+  #"single" or "multi"
+  renderType = "single"
+  #"simple" or "original"
+  themeStyle = "simple"
+
+  googleAnalytics = ""
+
+  name = "TP"
+  description = "Onkobioloogia loengukursuse materjalid."
+  pageNotFoundTitle = "404 - Page not found"
+
