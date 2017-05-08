@@ -2,26 +2,26 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>/hugo-sp-minimal/categories/</loc>
+    <loc>/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/hugo-sp-minimal/onepage/</loc>
+    <loc>/onepage/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/hugo-sp-minimal/</loc>
+    <loc>/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/hugo-sp-minimal/onepage/slaidid/</loc>
+    <loc>/onepage/slaidid/</loc>
   </url>
   
   <url>
-    <loc>/hugo-sp-minimal/tags/</loc>
+    <loc>/tags/</loc>
     <priority>0</priority>
   </url>
   

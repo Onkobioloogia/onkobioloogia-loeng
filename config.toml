@@ -1,4 +1,4 @@
-baseurl         = "https://eueung.github.io/hugo-sp-minimal/"
+baseurl         = ""
 theme = "hugo-sp-minimal"
 languageCode    = "en-us"
 title           = "SP-Minimal"
