@@ -16,7 +16,7 @@ paginate        = 5
   #"simple" or "original"
   themeStyle = "simple"
 
-  googleAnalytics = ""
+  googleAnalytics = "UA-58708073-4"
 
   name = "TP"
   description = "Onkobioloogia loengukursuse materjalid."
