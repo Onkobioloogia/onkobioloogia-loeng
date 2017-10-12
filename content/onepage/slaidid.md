@@ -16,7 +16,7 @@ Mis on vähk. Vähi haigestumus ja suremus maailmas. Vähitüübid
 - [Onkoviirused](https://tpall.github.io/Onkoviirused) Viiruste roll vähitekkes inimesel ja teistel selgroogsetel. Väikeste retroviiruste roll vähitekke molekulaarsete mehhanismide mõistmisel. Inimese tuumorviirused. 
 - [Onkogeenid](https://tpall.github.io/Onkogeenid) Kartsinogeenid. Raku kasvukontrolli geenide mutatsioonid. Proto-onkogeenide aktivatsiooni mehhanismid.
 - [Kasvufaktorid, retseptorid ja vähk](https://tpall.github.io/Retseptorid) Rakkude jagunemine ja rakuvälised signaalid. Türosiinkinaasid (TK). TK retseptorid ja nende aktivatsioon. Ras. TK retseptorite mutatsioonid vähis. Rakuväline maatriks.
-- [Tuumor-supressorgeenid](https://tpall.github.io/Tuumorsupressorid) Vähi intsidentsi seose vanusega. Retinoblastoom (RB). Tuumori supressorgeenide väljalülitumise mehhanismid.
+- [Tuumorsupressorgeenid](https://tpall.github.io/Tuumorsupressorid) Vähi intsidentsi seose vanusega. Retinoblastoom (RB). Tuumori supressorgeenide väljalülitumise mehhanismid.
 - [Rakutsükli kontroll](https://tpall.github.io/Rakutsyklikontroll) Rakkude jagunemine ja rakuvälised signaalid. Rakutsükli faasid. Kontrollpunktid. G1 restriktsioonipunkt. Tsükliinid ja tsükliin-kinaasid (CDK). CDK inhibiitorid. RB ja E2F valgud rakutsükli kontrollis.
 - [p53 ja apoptoos](https://tpall.github.io/p53-ja-apoptoos) p53 valgu avastamine. p53 mutatsioonid. p53 roll raku stressis. p53 regulatsioon. Apoptoos.
 - [Rakkude vananemine ja immortaliseerumine](https://tpall.github.io/Immortalisatsioon) Stress ja senesents. Telomeerid. Telomeeride roll rakkude jagunemispotentsiaali määramisel.
