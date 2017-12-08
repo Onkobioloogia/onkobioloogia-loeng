@@ -23,10 +23,9 @@ Mis on vähk. Vähi haigestumus ja suremus maailmas. Vähitüübid
 - [Rakkude vananemine ja immortaliseerumine](https://tpall.github.io/Immortalisatsioon) Stress ja senesents. Telomeerid. Telomeeride roll rakkude jagunemispotentsiaali määramisel.
 - [Mitmeastmeline vähiteke](https://tpall.github.io/Tumorigenees) Vähitekke pikaajalisus. Juhtmutatsioonid ja reisijamutatsioonid. Mitmeastmelise kartsinogenees. Vähi klonaalsus. Vähi tüvirakud. Okogeenide koostoime. Mutageenid ja vähi promootorid.
 - [Genoomi terviklikkuse säilitamine ja vähiteke](https://tpall.github.io/Genoomiterviklikkus) Tüvirakud kui mutageneesi märklauad. DNA kahjustuste vältimise strateegiad. DNA kahjustused ja reparatsioon. 
-- [Vähirakkude interaktsioonid strooma rakkudega ja angiogenees](https://tpall.github.io/Mikrokeskkond) Vähi mikrokeskkond. Heterotüüpne signalisatsioon. Epiteeli mesenhümaalne transformatsioon (EMT). Vähi angiogeneesi paradigma. 
-- [Vähi siirded ehk metastaasid](https://tpall.github.io/Metastaas) Metastaseerumise protsess ja etapid. Kolonisatsioon ja metastaaside ebaefektiivsus. Metastaasigeenid. Metastaasimustrid. Metastaaside latentsus.  
+- [Vähi mikrokeskkond, angiogenees ja metastaasid](https://tpall.github.io/Mikrokeskkond-ja-metastaas) Vähi mikrokeskkond. Heterotüüpne signalisatsioon. Epiteeli mesenhümaalne transformatsioon (EMT). Vähi angiogeneesi paradigma. Metastaseerumise protsess ja etapid. Kolonisatsioon ja metastaaside ebaefektiivsus. Metastaasigeenid. Metastaasimustrid. Metastaaside latentsus. 
 - [Vähi immuunsus ja immuunoteraapia](https://tpall.github.io/Immuunsus) Vähi immuunoseire ja -kujundamine. Immuunpuudulikkus ja vähk. Onkogeenide immunogeensus. Vähi antigeenid. Immunrakud vähi mikrokeskkonnas. _Immune checkpoints_.
-- [Vähiravimid](https://tpall.github.io/Vahiravim) Vähitrendid 20. sajandil. Biomarkerid ja molekulaarne profileerimine. Vähiravi strateegiad. Ravimimärklauad. Ravimiklassid. Ravimiresistentsus.
+- [Vähiravimid](https://tpall.github.io/Vahiravim) Vähitrendid 20. sajandil. Biomarkerid ja molekulaarne profileerimine. Vähiravi strateegiad. Ravimimärklauad. Ravimiklassid. Ravimiresistentsus. 
 - Kordamisküsimused [PDF](https://github.com/tpall/Onkobiokordamiskys/blob/master/kordamiskysimused.pdf)
 
 _Vabandan katkiste pildilinkide pärast. Parandan neid tavaliselt vahetult enne loengut._
