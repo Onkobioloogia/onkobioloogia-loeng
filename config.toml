@@ -9,7 +9,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 [params]
   title       = "Onkobioloogia"
   subtitle    = "Vähi molekulaarsed alused"
-  copyright   = ""
+  copyright   = "Taavi Päll"
   authorImage = "Next-generation_Hallmarks_of_Cancer_wheel_with_labels.svg.png"
 
   #"single" or "multi"
