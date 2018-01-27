@@ -10,7 +10,7 @@ Loeng põhineb Robert A. Weinbergi õpikul [**The Biology of Cancer**](http://ww
 Taavi Päll, PhD 
 
 
-## Slaidid (uuenevad vähemalt korra aastas)
+## Slaidid
 
 - [Sissejuhatus](https://onkobioloogia.github.io/Sissejuhatus) 
 Mis on vähk. Vähi haigestumus ja suremus maailmas. Vähitüübid
