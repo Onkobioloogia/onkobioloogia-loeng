@@ -28,6 +28,7 @@ Mis on vähk. Vähi haigestumus ja suremus maailmas. Vähitüübid
 - [Vähi immuunsus ja immuunoteraapia](https://onkobioloogia.github.io/Immuunsus-ja-vahiravimid/) Vähi immuunoseire ja -kujundamine. Immuunpuudulikkus ja vähk. Onkogeenide immunogeensus. Vähi antigeenid. Immunrakud vähi mikrokeskkonnas. _Immune checkpoints_. Vähitrendid 20. sajandil. Biomarkerid ja molekulaarne profileerimine. Vähiravi strateegiad. Ravimimärklauad. Ravimiklassid. Ravimiresistentsus. 
 - Kordamisküsimused [PDF](https://github.com/onkobioloogia/Kordamiskysimused/blob/master/kordamiskysimused.pdf)
 
-_Vabandan katkiste pildilinkide pärast. Parandan neid tavaliselt vahetult enne loengut._
+_Vabandan katkiste pildilinkide pärast. Parandan neid tavaliselt vahetult enne loengut. 
+Avatar, Hanahan and Weinberg, Hallmarks of cancer: the next generation. Cell. 2011 Mar 4;144(5):646-74. doi: 10.1016/j.cell.2011.02.013. Adapted from Figure 6, Wikimedia Commons_
 
 
